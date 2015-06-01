@@ -5,6 +5,16 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Captain Prime", "Captain Prime\Captain Prime.fsproj", "{2BD76124-28F9-4163-8F6D-1166B683FDD8}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Huge GCD", "Huge GCD\Huge GCD.fsproj", "{AFCF931D-EB3F-4F1F-B328-70BFAA50A26C}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Subset Sum", "Subset Sum\Subset Sum.fsproj", "{6BF7B25D-2046-45AE-849F-56A30B29E29D}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Missing Numbers FP", "Missing Numbers FP\Missing Numbers FP.fsproj", "{6A29A102-B5A3-4ACE-A971-E0AACEE63FB3}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Jumping Bunnies", "Jumping Bunnies\Jumping Bunnies.fsproj", "{E00A06D8-1757-4A5C-BAF6-18E74E77A67C}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Sequence full of colors", "Sequence full of colors\Sequence full of colors.fsproj", "{730DD4AD-2C54-41E5-AE15-76242D79D170}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +25,26 @@ Global
 		{2BD76124-28F9-4163-8F6D-1166B683FDD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2BD76124-28F9-4163-8F6D-1166B683FDD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2BD76124-28F9-4163-8F6D-1166B683FDD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFCF931D-EB3F-4F1F-B328-70BFAA50A26C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFCF931D-EB3F-4F1F-B328-70BFAA50A26C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFCF931D-EB3F-4F1F-B328-70BFAA50A26C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFCF931D-EB3F-4F1F-B328-70BFAA50A26C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BF7B25D-2046-45AE-849F-56A30B29E29D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BF7B25D-2046-45AE-849F-56A30B29E29D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BF7B25D-2046-45AE-849F-56A30B29E29D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BF7B25D-2046-45AE-849F-56A30B29E29D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A29A102-B5A3-4ACE-A971-E0AACEE63FB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A29A102-B5A3-4ACE-A971-E0AACEE63FB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A29A102-B5A3-4ACE-A971-E0AACEE63FB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A29A102-B5A3-4ACE-A971-E0AACEE63FB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E00A06D8-1757-4A5C-BAF6-18E74E77A67C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E00A06D8-1757-4A5C-BAF6-18E74E77A67C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E00A06D8-1757-4A5C-BAF6-18E74E77A67C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E00A06D8-1757-4A5C-BAF6-18E74E77A67C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{730DD4AD-2C54-41E5-AE15-76242D79D170}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{730DD4AD-2C54-41E5-AE15-76242D79D170}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{730DD4AD-2C54-41E5-AE15-76242D79D170}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{730DD4AD-2C54-41E5-AE15-76242D79D170}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
