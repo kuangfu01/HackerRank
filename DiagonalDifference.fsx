@@ -9,4 +9,3 @@ let rec scan i (first : int) second =
         scan (i+1) (first + nums.[i-1]) (second + nums.[n-i])
 
 printfn "%d" (scan 1 0 0)
-
