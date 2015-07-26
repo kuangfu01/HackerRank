@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Captain Prime", "Captain Prime\Captain Prime.fsproj", "{2BD76124-28F9-4163-8F6D-1166B683FDD8}"
 EndProject
@@ -22,6 +22,8 @@ EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Caesar Cipher", "Caesar Cipher\Caesar Cipher.fsproj", "{1FBE3588-5896-4AF2-BCC8-B9CB09CE6802}"
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Extra long factorials", "Extra long factorials\Extra long factorials.fsproj", "{809ED039-9173-4AB2-9E80-92710643D24B}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Find Digits", "Find Digits\Find Digits.fsproj", "{C6FBEE17-461D-4472-A4E0-AF3DE3C32D88}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{809ED039-9173-4AB2-9E80-92710643D24B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{809ED039-9173-4AB2-9E80-92710643D24B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{809ED039-9173-4AB2-9E80-92710643D24B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6FBEE17-461D-4472-A4E0-AF3DE3C32D88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6FBEE17-461D-4472-A4E0-AF3DE3C32D88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6FBEE17-461D-4472-A4E0-AF3DE3C32D88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6FBEE17-461D-4472-A4E0-AF3DE3C32D88}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
